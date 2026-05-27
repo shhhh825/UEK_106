@@ -3,7 +3,7 @@ Alle files sind für die LB C
 
 ----------------------------------------------
 
-Dieser Prüfungen stammen aus dem Jahr 2025 und die Prüfung war 2026 sehr änlich nur die Namen oder Zahlen wurden verändert die aufgabestellung nicht.
+Dieser Prüfungen stammen aus dem Jahr 2025 und die Prüfung war 2026 sehr änlich nur die Namen oder Zahlen wurden verändert die aufgabestellung nicht. Nicht alle aufgaben wurden richtig gelösst schaut sie sleber nochmals genauer an und passt die Files an. 
 
 # LB B
 <img width="1152" height="2048" alt="WhatsApp Image 2026-05-27 at 13 29 00 (1)" src="https://github.com/user-attachments/assets/32728a8d-ea0f-4bf3-858e-e445571d28b6" />
