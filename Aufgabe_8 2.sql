@@ -1,0 +1,1 @@
+SELECT s.store_id AS 'Store ID', COUNT(i.inventory_id) AS 'Anzahl Filme' FROM inventory i JOIN store s USING(store_id) GROUP BY s.store_id;

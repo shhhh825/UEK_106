@@ -1,0 +1,11 @@
+CREATE TABLE award (
+award_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+name VARCHAR(255) NOT NULL,
+ prize_money DECIMAL(6,2) UNSIGNED NOT NULL, PRIMARY KEY (award_id)
+);
+CREATE TABLE film_award (
+film_id SMALLINT UNSIGNED NOT NULL, award_id INT UNSIGNED NOT NULL,
+year INT(4) UNSIGNED NOT NULL,
+FOREIGN KEY (film_id) REFERENCES film(film_id),
+FOREIGN KEY (award_id) REFERENCES award(award_id)
+);

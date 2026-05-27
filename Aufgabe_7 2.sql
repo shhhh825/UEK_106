@@ -1,0 +1,1 @@
+SELECT active AS 'ist aktiv', COUNT(active) AS 'Anzahl' FROM customer GROUP BY active;
